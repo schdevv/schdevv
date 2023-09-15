@@ -2,6 +2,7 @@
 
 <div align=center><h1>📚 STACKS</h1></div>
 
+![Notebook](https://img.shields.io/badge/Notebook-white?style=for-the-badge&logoColor=white) Language
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
